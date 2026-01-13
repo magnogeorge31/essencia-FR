@@ -44,10 +44,10 @@ const PriceSection: React.FC<{ title: string; subtitle?: string }> = ({ title, s
             <ArrowDown className="text-green-500 w-12 h-12 animate-bounce" />
         </div>
 
-        {/* CTA Button Only */}
+        {/* CTA Button Only - Link updated */}
         <div className="flex justify-center mb-8">
             <a 
-              href="https://pay.hotmart.com/M103277149B?checkoutMode=10"
+              href="https://pay.hotmart.com/R103829419W?checkoutMode=10"
               className="bg-green-600 hover:bg-green-700 text-white text-lg md:text-2xl font-bold py-5 px-8 md:px-16 rounded-lg shadow-[0_4px_0_rgb(21,128,61)] hover:shadow-[0_2px_0_rgb(21,128,61)] transform hover:translate-y-[2px] transition-all w-full md:w-auto uppercase flex flex-col md:flex-row items-center justify-center gap-2 text-center no-underline cursor-pointer"
             >
                 <span>JE VEUX COMMENCER MAINTENANT</span>
@@ -98,7 +98,7 @@ const PriceSection: React.FC<{ title: string; subtitle?: string }> = ({ title, s
             </div>
 
             <p className="text-[10px] md:text-xs text-black font-bold max-w-2xl mx-auto leading-relaxed uppercase px-4">
-                EFFECTUEZ VOTRE ACHAT EN TOUTE CONFIANCE, RAPIDITÉ ET SÉCURITÉ SANS COMPLICATIONS AVEC NOTRE PLATEFORME DE PAIEMENT PROTÉGÉE PAR CHIFFREMENT SSL ET SOUTENUE PAR VISA, MASTERCARD, AMERICAN EXPRESS ET PAYPAL
+                EFFECTUEZ VOTRE ACHAT EN TOUTE CONFIANCE, RAPIDITÉ ET SÉCURITÉ SANS COMPLICATIONS AVEC NOTRE PLATEFORME DE PAIEMENT PROTÉGÉE PRÈS CHIFFREMENT SSL ET SOUTENUE PAR VISA, MASTERCARD, AMERICAN EXPRESS ET PAYPAL
             </p>
 
             <h4 className="text-[#8B4513] font-bold text-lg uppercase mt-6 tracking-wider">
